@@ -155,14 +155,12 @@ I work best **at the intersection of data and decision-making**, where rigorous 
 
 ## 📊 Selected projects
 
-> Repositories where I apply R to sustainability and development questions.
-
 | Project | Description | Stack |
 |---|---|---|
-| 🌿 [**esg-risk-screening**](#) | Scoring framework to screen ESG risks in emerging-market portfolios | R · tidyverse |
-| 🎯 [**sdg-alignment-tracker**](#) | Mapping project indicators to SDG targets with visual reports | R · ggplot2 |
-| 🚢 [**port-cities-development**](#) | Data behind my thesis on development agendas in port cities | R · Stata |
-| 🧾 [**inclusive-trade-me**](#) | M&E dashboard for trade programs in underserved regions | R · Shiny |
+| 🌿 **esg-risk-screening** | Scoring framework to screen ESG risks in emerging-market portfolios | R · tidyverse |
+| 🎯 **sdg-alignment-tracker** | Mapping project indicators to SDG targets with visual reports | R · ggplot2 |
+| 🚢 **port-cities-development** | Data behind my thesis on development agendas in port cities | R · Stata |
+| 🧾 **inclusive-trade-me** | M&E dashboard for trade programs in underserved regions | R · Shiny |
 
 ---
 
