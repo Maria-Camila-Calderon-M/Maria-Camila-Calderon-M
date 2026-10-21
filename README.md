@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:2A9D8F,100:E9C46A&height=220&section=header&text=M.%20Camila%20Calder%C3%B3n&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Economist%20%7C%20Sustainable%20Development%20%7C%20Impact%20%26%20Data&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
-</p>
+<!-- ===================== HEADER ===================== --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:2A9D8F,100:E9C46A&height=220&section=header&text=M.%20Camila%20Calder%C3%B3n&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Economist%20%7C%20Sustainable%20Development%20%7C%20Impact%20%26%20Data&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/mcamilacalderon/"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=2A9D8F&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;Economist+trained+to+measure+what+matters;Impact+finance+%E2%80%A2+ESG+%E2%80%A2+SDGs;Turning+evidence+into+investment+and+policy+decisions;Let's+drive+transformative+change+together+%E2%9C%A8" alt="Typing welcome message"/> </a> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mcamilacalderon/">
