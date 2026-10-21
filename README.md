@@ -177,7 +177,7 @@ I work best **at the intersection of data and decision-making**, where rigorous 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2A9D8F&style=flat-square&label=Profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Maria-Camila-Calderon-M&color=2A9D8F&style=flat-square&label=Profile+views" alt="Profile views"/>
 </p>
 
 <p align="center">
