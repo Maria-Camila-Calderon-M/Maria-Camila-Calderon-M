@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/mcamilacalderon/">
     <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Let's%20connect-on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0B6E4F" alt="Connect on LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Say%20hello-by%20email-E9C46A?style=for-the-badge&labelColor=264653" alt="Email"/>
-  </a>
   <a href="#-selected-projects">
     <img src="https://img.shields.io/badge/%F0%9F%93%8A%20See%20my-projects-2A9D8F?style=for-the-badge&labelColor=264653" alt="Projects"/>
   </a>
