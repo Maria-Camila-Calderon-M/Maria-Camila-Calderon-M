@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== --> 
-
+<p align="center"><img src="header.svg" width="100%" alt="Header"></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mcamilacalderon/">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=2A9D8F&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;Economist+trained+to+measure+what+matters;Impact+finance+%E2%80%A2+ESG+%E2%80%A2+SDGs;Turning+evidence+into+investment+and+policy+decisions;Let's+drive+transformative+change+together+%E2%9C%A8" alt="Typing welcome message"/>
