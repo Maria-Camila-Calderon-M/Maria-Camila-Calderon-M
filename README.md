@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:2A9D8F,100:E9C46A&height=220&section=header&text=M.%20Camila%20Calder%C3%B3n&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Economist%20%7C%20Sustainable%20Development%20%7C%20Impact%20%26%20Data&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
 </p>
